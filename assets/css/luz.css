@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(124, 175, 209);
+}
+#title {
+    display: flex;
+    justify-content: center;
+}
+#lamp {
+    display: flex;
+    justify-content: center;
+   
+}
+.btn1{
+    transform: translateY(190px);
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(138, 168, 175);
+    
+}
+.btn2{
+    transform: translateY(190px);
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(138, 168, 175);
+   
+}
